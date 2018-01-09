@@ -7,6 +7,7 @@ public class Pokemon {
     private int height;
     private int weight;
 
+    //empty constructor for compability
     public Pokemon(){
 
     }
