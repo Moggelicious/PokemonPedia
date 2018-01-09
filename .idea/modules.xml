@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PokemonPedia.iml" filepath="$PROJECT_DIR$/PokemonPedia.iml" />
+      <module fileurl="file://D:\Projects\PokemonPedia\PokemonPedia.iml" filepath="D:\Projects\PokemonPedia\PokemonPedia.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Projects\PokemonPedia\app\app.iml" filepath="D:\Projects\PokemonPedia\app\app.iml" />
     </modules>
   </component>
 </project>
