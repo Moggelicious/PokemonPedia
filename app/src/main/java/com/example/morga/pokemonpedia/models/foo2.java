@@ -5,4 +5,6 @@ package com.example.morga.pokemonpedia.models;
  */
 
 public class foo2 {
+
+    //boobobo
 }
