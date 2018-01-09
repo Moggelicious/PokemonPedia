@@ -1,13 +1,17 @@
 package com.example.morga.pokemonpedia.models;
 
-public class pokemon {
+public class Pokemon {
 
     private int id;
     private String name;
     private int height;
     private int weight;
 
-    public pokemon(int id, String name) {
+    public Pokemon(){
+
+    }
+
+    public Pokemon(int id, String name) {
         this.id = id;
         this.name = name;
     }
