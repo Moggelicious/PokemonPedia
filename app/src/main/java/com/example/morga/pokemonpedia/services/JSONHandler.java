@@ -8,5 +8,5 @@ import java.util.ArrayList;
 public class JSONHandler {
 
     private JSONObject json;
-
+    //TODO parse result to objects
 }
